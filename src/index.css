@@ -15,3 +15,9 @@ body {
   background-color: var(--bg);
   line-height: var(--line-height);
 }
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
